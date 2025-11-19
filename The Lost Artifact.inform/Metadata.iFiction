@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>31362E4B-9149-4ABB-AB82-195864C86496</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>The Lost Artifact</title>
+            <author>Trurl</author>
+            <headline>An Archaeological Adventure</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2025</firstpublished>
+            <description>A third-person interactive fiction adventure.</description>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2025-11-18</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>Inform 10.1.2 (build )</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>Inform 10.1.2 (build )</generatorversion>
+            <originated>2025-11-18</originated>
+        </colophon>
+        <glulx>
+            <serial>251118</serial>
+            <release>1</release>
+            <compiler>Inform Inform 10.1.2 (build )</compiler>
+        </glulx>
+    </story>
+</ifindex>
