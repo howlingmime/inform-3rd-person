@@ -228,11 +228,11 @@ Asking for help is an action applying to nothing.
 Carry out asking for help:
 	say "*** HINTS ***[line break]";
 	say "- Explore all the rooms thoroughly[line break]";
-	say "- Read any items you find - they might contain clues[line break]";
+	say "- Read any items Sarah finds - they might contain clues[line break]";
 	say "- The stone door needs three medallions to open[line break]";
 	say "- Check containers and unusual objects[line break]";
 	say "- [if the player does not carry the moon medallion]Use the rope before trying to get things from the well[otherwise]Good job with the well![end if][line break]";
-	say "- [if the stone door is unlocked]You've unlocked the door - go north![otherwise]Find all three medallions and use them on the door[end if][line break]".
+	say "- [if the stone door is unlocked]Sarah has unlocked the door - go north![otherwise]Find all three medallions and use them on the door[end if][line break]".
 
 Test quick with "x murals / take journal / n / x pillars / take star / e / open chest / take sun / w / w / take rope / take moon / e / unlock door with medallions / n / take crystal".
 
